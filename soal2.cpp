@@ -3,6 +3,7 @@ using namespace std;
 
 // Definisi kelas Tabung
 class Tabung {
+    // Property
     public:
         double jariJari;
         double tinggi;
